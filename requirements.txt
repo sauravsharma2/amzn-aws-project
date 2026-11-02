@@ -1,0 +1,5 @@
+pyodbc
+pandas>=2.2.4
+psutil
+openpyxl
+rapidfuzz
